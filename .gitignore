@@ -1,3 +1,17 @@
+# Ignore large files in the genome folder
+*
+**/blast
+!*/
+**/MERFISH_Examples2
+Genomes
+!*.fasta
+**/blast/*.fasta
+**/sequences/**/*.fasta
+#Genomes/*
+
+# MacOS file
+.DS_Store
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
