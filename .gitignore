@@ -4,6 +4,7 @@
 !*/
 **/MERFISH_Examples2
 Genomes
+
 !*.fasta
 **/blast/*.fasta
 **/sequences/**/*.fasta
