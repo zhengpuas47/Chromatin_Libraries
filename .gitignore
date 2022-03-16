@@ -8,6 +8,7 @@ Genomes
 !*.fasta
 **/blast/*.fasta
 **/sequences/**/*.fasta
+**/blast_*/*/fasta
 #Genomes/*
 
 # MacOS file
